@@ -1,4 +1,4 @@
-# Predicting-Post-Popularity
+# MiniProject: Predicting_Post_Popularity
 
 **Goal:**<br>
 To find how many times the posts are shared in the social media as a popularity of that post (if the post gets viral)
